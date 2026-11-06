@@ -23,3 +23,4 @@ Guilherme dos Santos Lira Lopes - RA143630
 | **Finalizar compra** | Selecione a forma de pagamento desejada e finalize a compra. |
 | **Download da passagem** | Baixe o arquivo da passagem adquirida. |
 | **Visualizar nota fiscal** | Acesse e visualize a nota fiscal referente à compra. |
+| **Ver perfil** | Acesse e visualize seu perfil. |
