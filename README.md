@@ -1,5 +1,7 @@
 # WalooViagens
 
+Link apresentação: https://canva.link/p6f5um53cjczmkk
+
 Link do protótipo: https://waloo-viagens.bolt.host
 (último update do protótipo realizado em 06/11/2026)
 
